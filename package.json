@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Portfolio KETTAB Walid",
+  "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "http://KettabWalid.github.io/Portfolio",
   "scripts": {
